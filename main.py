@@ -1,4 +1,4 @@
-from datetime import date
+
 import os
 
 def make_commit(days: int):
